@@ -1,2 +1,9 @@
 # oyd-exercise-2-2
-GitHub Actions CI Workflow for Terraform
+
+GitHub Actions CI workflow for Terraform — Exercise 2.2
+
+## Evidence
+
+- **Pull Request:** [PR #1 — Terraform CI](https://github.com/Daniel-1A/oyd-exercise-2-2/pull/1#issuecomment-4357093039)
+
+![PR comment](evidence/pr-comment.png)
